@@ -20,7 +20,7 @@ En este reto deberás desarrollar una página de contacto utilizando HTML y CSS.
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/alemv19/Tarea3--ProgramacionWeb  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Deploy: https://alemv19.github.io/Tarea3--ProgramacionWeb/
 ---
 
 ## 📝 Reflexión
